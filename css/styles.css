@@ -1,0 +1,13 @@
+/* Base Styles */
+
+* {
+  box-sizing: border-box;
+  }
+
+  body {
+  font-family: 'Indie Flower';
+  margin: 0 auto;
+  text-align: center;
+  background-color: white;
+  color: #blue;
+}
