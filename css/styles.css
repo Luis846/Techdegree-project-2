@@ -101,7 +101,9 @@ img.student-picture {
 .footer-navbar {
  display: none;
 }
-
+ul {
+  list-style: none;
+}
 @media (min-width: 768px) {
  .container {
    width: 90%;
