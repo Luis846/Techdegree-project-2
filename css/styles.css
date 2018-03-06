@@ -9,7 +9,7 @@
   margin: 0 auto;
   text-align: center;
   background-color: white;
-  color: #blue;
+  color: blue;
 }
 a {
  text-decoration: none;
@@ -68,7 +68,7 @@ img.student-picture {
 }
 
 .name a:hover {
- color: none;
+ color: black;
 }
 
 .menu a:hover,
@@ -89,7 +89,7 @@ img.student-picture {
  background-color: #D7D9CE;
 }
 .contact h2 {
- text-transform: bold;
+ text-transform: uppercase;
 }
 
 .footer-section,
