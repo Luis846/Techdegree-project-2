@@ -22,6 +22,7 @@ footer {
 
 p {
  font-size: 19px;
+ margin: 15px 15px;
 }
 
 h3 {
@@ -33,6 +34,8 @@ div {
 
 .main-header .container {
  background-color: #4ea3af;
+ margin: 15px 15px;
+
 }
 
 .menu,
@@ -41,6 +44,7 @@ div {
 }
 .menu {
  padding-bottom: 15px;
+ padding-left: 0px;
 }
 .name {
  padding: 20px 0px;
@@ -103,6 +107,7 @@ img.student-picture {
 }
 ul {
   list-style: none;
+  padding: 0;
 }
 @media (min-width: 768px) {
  .container {
@@ -208,7 +213,7 @@ ul {
    padding: 80px 10px 0px 20px;
  }
 
- .student-picture {
+ img.student-picture {
    display: block;
    width: 300px;
    float: right;
