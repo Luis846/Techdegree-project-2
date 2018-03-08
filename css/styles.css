@@ -238,7 +238,7 @@ ul {
  .footer-navbar {
    display: block;
    float: right;
-   margin-top: 15px;
+   margin-top: auto;
  }
 
  .footer-navbar li {
