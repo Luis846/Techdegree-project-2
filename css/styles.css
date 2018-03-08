@@ -94,6 +94,7 @@ img.student-picture {
 }
 .contact h2 {
  text-transform: uppercase;
+ margin-top: 15px;
 }
 
 .footer-section,
@@ -178,6 +179,7 @@ ul {
    width: 80%;
    max-width: 1200px;
    margin: 0 auto;
+   display: inline-block;
  }
 
  .menu {
@@ -214,11 +216,13 @@ ul {
  }
 
  img.student-picture {
-   display: block;
+
    width: 300px;
    float: right;
    margin: 10px;
    padding: 10px;
+   padding-left: 50px;
+   display: flex;
  }
 
  .back {
